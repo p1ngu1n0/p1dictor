@@ -56,3 +56,4 @@ Esto generaria un archivo llamado pin.lst de 4 digitos empezando por:
 
 @_p1ngu1n0_
 
+https://www.instagram.com/_p1ngu1n0_/
