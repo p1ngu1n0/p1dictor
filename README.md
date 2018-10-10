@@ -16,7 +16,7 @@ Si no tienes pip3 ejecuta en Debian:
 # apt-get install python3-pip
 ```
 
-·## Ejecucion
+### Ejecucion
 
 Para ejecutarlo escribe:
 
