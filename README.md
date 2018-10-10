@@ -44,7 +44,7 @@ optional arguments:
 python3 p1dictor.py -n 4 -c 0123456789 -o pin
 ```
 
-Esto generaria un archivo llamado pin de 4 digitos empezando por:
+Esto generaria un archivo llamado pin.lst de 4 digitos empezando por:
 
 0000
 0001
